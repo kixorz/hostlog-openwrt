@@ -4,7 +4,7 @@ PKG_NAME:=hostlog
 PKG_VERSION:=1.0.3
 PKG_RELEASE:=1
 
-PKG_SOURCE:=v$(PKG_VERSION).tar.gz
+PKG_SOURCE:=$(PKG_NAME)-v$(PKG_VERSION).tar.gz
 PKG_SOURCE_URL:=https://codeload.github.com/kixorz/hostlog/tar.gz/v$(PKG_VERSION)?
 PKG_HASH:=a48ec02a6e55df24bbe9f0818b4e86bd494c97a4c3a9cd283a2093ed38a00bad
 
